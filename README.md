@@ -3,6 +3,9 @@
 
 JHU  
 
+## [Assignment #1: Plots](assignment1/)
+## [Assignment #2: More Plots](assignment2/)
+
 
 ## Tufte's Principles of Analytic Graphics
 
